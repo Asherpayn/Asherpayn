@@ -1,6 +1,14 @@
 ## Hiya 👋
 
+Im a _13_ year old total beginner in frontend. 
 
+🔭 Im currently working on absolutely nothing apart from school. 
+
+🌱 Im learning blender (slowly), HTML, CSS and soon Javascript. 
+
+✨ Im interested in running local AI models and linux. 
+
+🖥️ I use Macos 15 on a 2024 mac mini and Arch linux (Archinstall) on my laptop (4GB intel pentium gold)
 
 <!--
 **Asherpayn/Asherpayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
