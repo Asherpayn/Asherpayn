@@ -10,6 +10,7 @@ Im a _13_ year old total beginner in frontend.
 
 🖥️ I use Macos 15 on a 2024 mac mini and Arch linux (Archinstall) on my laptop (4GB intel pentium gold)
 
+🤖 I beleive AI should be a tool not a resource and should not be writing whole files worth of code. I have tried "vibe coding" personally i didnt like it as i learnt **nothing**. 
 <!--
 **Asherpayn/Asherpayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
