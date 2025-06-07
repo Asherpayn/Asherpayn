@@ -1,7 +1,7 @@
 ## Hiya 👋
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asherpayn&theme=dark&show_icons=true&hide_border=true&count_private=true#gh-dark-mode-only) 
 
-Im a _13_ year old total beginner in frontend. 
+I am a _13_ year old total beginner in frontend. 
 
 🔭 Im currently working on absolutely nothing apart from school. 
 
@@ -13,8 +13,8 @@ Im a _13_ year old total beginner in frontend.
 
 🤖 I beleive AI should be a tool not a resource and should not be writing whole files worth of code. I have tried "vibe coding" personally i didnt like it as i learnt **nothing**. 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asherpayn&theme=dark&show_icons=true&hide_border=true&layout=compact#gh-dark-mode-only) 
 ![GitHub Stats](https://streak-stats.demolab.com?user=asherpayn&theme=dark&hide_border=true#gh-dark-mode-only) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asherpayn&theme=dark&show_icons=true&hide_border=true&layout=compact#gh-dark-mode-only) 
 <!--
 **Asherpayn/Asherpayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
