@@ -5,7 +5,7 @@ I am a _13_ year old total beginner in frontend.
 
 🔭 Im currently working on absolutely nothing apart from school. 
 
-🌱 Im learning blender (slowly), HTML, CSS and soon Javascript. 
+🌱 Im learning HTML, CSS and soon Javascript. 
 
 ✨ Im interested in running local AI models and linux. 
 
