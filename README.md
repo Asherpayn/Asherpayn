@@ -1,7 +1,7 @@
 ## Hi 👋
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asherpayn&theme=dark&show_icons=true&hide_border=true&count_private=true#gh-dark-mode-only) --> 
 
-I am a _14_ year old total beginner in frontend. 
+I am a _14_ year old total beginner in _✨tech✨_. 
 
 🔭 Im currently working on absolutely nothing apart from school. 
 
