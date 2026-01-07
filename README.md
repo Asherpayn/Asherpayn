@@ -9,7 +9,7 @@ I am a _14_ year old total beginner in _✨tech✨_.
 
 ✨ Im interested in running local AI models and linux. 
 
-🖥️ I use macOS 15 on a 2024 mac mini and Arch linux (Archinstall) on my laptop (4GB intel pentium gold)
+🖥️ I use macOS 26 (Tahoe) on a 2024 mac mini and Arch linux on my laptop (4GB intel pentium gold, used archinstall script)
 
 <!-- ![GitHub Stats](https://streak-stats.demolab.com?user=asherpayn&theme=dark&hide_border=true#gh-dark-mode-only) -->
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asherpayn&theme=dark&show_icons=true&hide_border=true&layout=compact#gh-dark-mode-only) -->
