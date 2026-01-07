@@ -3,8 +3,6 @@
 
 I am a _14_ year old total beginner in _✨tech✨_. 
 
-🔭 Im currently working on absolutely nothing apart from school. 
-
 🌱 Im learning HTML, CSS and soon Javascript and swift. 
 
 ✨ Im interested in running local AI models and linux. 
